@@ -15,4 +15,4 @@ Used multi-layer architecture (Presentation Layer, Data Access Layer) and used D
 4. Provide connection string in config files.
 
 Note:
-Provide the required connection string related to your machine.
+Provide the required <b>connection string</b> related to your machine.
